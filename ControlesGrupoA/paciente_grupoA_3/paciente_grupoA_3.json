@@ -1,0 +1,22 @@
+{
+    "Age": 57,
+    "Analysis_types_for_AI": {
+        "AD vs FTD": true,
+        "AD vs MCI": true,
+        "FTD vs MCI": false,
+        "PD vs PKS": false
+    },
+    "Hospital": "HUCV",
+    "Label": "AlbertoCalvoElipe",
+    "Pathologies_Studied": [
+        2,
+        9,
+5,10
+    ],
+    "Results_types": {
+        "AI": false,
+        "PDF_Report": true,
+        "Zscore": false
+    },
+     "estado": 1
+}
